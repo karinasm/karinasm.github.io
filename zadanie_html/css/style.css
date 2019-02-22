@@ -11,6 +11,9 @@ form label{
     display: block;
     margin-bottom: 5px;
 }
+#mezczyzna,#kobieta{
+    float: left;
+}
 form input[type="text"],form input[type="number"],form input[type="email"],form select{
     height: 30px;
     width: 200px;
